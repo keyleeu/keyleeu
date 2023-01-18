@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a5acdf&height=320&section=header&text=JungEun%20Jang&fontSize=70&animation=fadeIn&fontAlignY=33&desc=개발자%20이민혁의%20개발일지%20입니다&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a5acdf&height=320&section=header&text=MINHYEOK%20LEE&fontSize=70&animation=fadeIn&fontAlignY=33&desc=개발자%20이민혁의%20개발일지%20입니다&descAlignY=55&descAlign=50" />
 </p>
 
 <p align='center'>📌 Introduction  
