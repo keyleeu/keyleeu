@@ -98,8 +98,9 @@
 
 >SIDE PROJECT
 
-#
-### [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+
+```
+## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 ### _프로젝트 기간 : ~2021/5_
 ### _의도_
 - mark-up의 숙련을 위해, 그리고 api 사용법을 익히기 위한 간단한 프로젝트 만들기
@@ -115,8 +116,8 @@
 - Github pages를 활용해 결과물 배포
 ### _결과물_
 - Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_movieApp_2021-5)
+```
 
-#
 
 #
 
