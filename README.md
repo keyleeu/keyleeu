@@ -47,7 +47,7 @@
 
 ## _📌 Project Index_
 
-> SIDE PROJECT
+> 1. SIDE PROJECT
 - google app
     - 프로젝트 기간 : ~2021/7
     - 사용 스택 :
@@ -69,7 +69,7 @@
 - errand(team)
     - ~2022/12
     -
-> CLONE
+> 2.CLONE
 - airbnb
     - ~2021/4
     - 
@@ -85,7 +85,7 @@
 - uber eats
     - ~2022/3
     -
-> ALGORITHM
+> 3.ALGORITHM
 - 2022-2nd(college)
     - ~2022/12
     -
@@ -96,7 +96,7 @@
 
 ## _📌 Project Detail_
 
->SIDE PROJECT
+>1. SIDE PROJECT
 
 ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 ### _프로젝트 기간 : ~2021/5_
@@ -117,7 +117,7 @@
 
 
 #
->CLONE
+>2. CLONE
 
 #
->ALGORITHM
+>3. ALGORITHM
