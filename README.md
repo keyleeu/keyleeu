@@ -56,11 +56,7 @@
     - 사용 스택 :
 - movie app
     - 프로젝트 기간 : ~2022/5
-    - 사용 스택 :
-      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white" style="align-items:center; display: flex; justify-content:center;"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    - 사용 스택 : `#Javascript`, `#Html`, `#Css`, `#React`, `#Api`, `#Github pages`
 - find macbook
     - ~2022/7
     -
