@@ -50,10 +50,9 @@
 > PROJECT
 - google app
     - ~2021/7
-    -  <p align="left">
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
-      </p>
+    - 사용언어
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
 - basic web
     - ~2021/7
     -
