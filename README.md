@@ -54,7 +54,7 @@
 - basic web
     - 프로젝트 기간 : ~2021/7
     - 사용 스택 :
-- [movie app](#Movie-App)
+- [movie app](#movie-app)
     - 프로젝트 기간 : ~2022/5
     - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
 - find macbook
