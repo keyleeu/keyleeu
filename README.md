@@ -95,9 +95,8 @@
     - ~2022/8
     -
 
-<span style="color:red">
+
 ### _📌 Project Detail_
-</span>
 
 #
 
