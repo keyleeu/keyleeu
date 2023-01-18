@@ -3,8 +3,8 @@
 </p>
 
 <p align='center'>📌 Introduction  
-<p align='center'>새로운 기술과 빠르게 변하는 웹개발 트랜드 속에서,
-<p align='center'>사용자 입장을 고려하기 위해 새로운 기술과 트렌드를 익혀 꾸준히 성장하기 위해 노력하는 개발자 이민혁 입니다.  </p>
+<p align='center'>어떤 질문이든, 어떤 문제든, 마주쳤을때 당당하게 앞서있기위해
+<p align='center'>새로운 기술과 트렌드를 익혀 꾸준히 성장하기를 노력하는 개발자 이민혁 입니다.  </p>
 
 # MINHYEOK LEE
 
@@ -45,9 +45,9 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me4n-lee&layout=compact)](https://github.com/me4n-lee/github-readme-stats)
 
-## _📌 Project_
+## _📌 Project Index_
 
-> PROJECT
+> SIDE PROJECT
 - google app
     - ~2021/7
     - 사용언어
@@ -128,8 +128,6 @@
 
 #
 
-## [Movie Web Page](https://github.com/ellajang/202208_movie_app_js)
-
 ## [📌 Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 ### _프로젝트 기간 : ~2021/5_
 ### _의도_
@@ -146,6 +144,8 @@
 - Github pages를 활용해 결과물 배포
 ### _결과물_
 - Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_movieApp_2021-5)
+
+#
 
 ## [Wetube Page](https://github.com/ellajang/202209_wetube-reloaded)
 
