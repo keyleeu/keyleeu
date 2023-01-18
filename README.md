@@ -49,16 +49,21 @@
 
 > SIDE PROJECT
 - google app
-    - ~2021/7
-    - 사용언어
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
+    - 프로젝트 기간 : ~2021/7
+    - 사용 스택 :
 - basic web
-    - ~2021/7
-    -
+    - 프로젝트 기간 : ~2021/7
+    - 사용 스택 :
 - movie app
-    - ~2022/5
-    -
+    - 프로젝트 기간 : ~2022/5
+    - 사용 스택 :
+    <p>
+      <br/>
+      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </p>
 - find macbook
     - ~2022/7
     -
@@ -96,15 +101,15 @@
     -
 
 
-### _📌 Project Detail_
+## _📌 Project Detail_
 
 #
 
 ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 ### _프로젝트 기간 : ~2021/5_
 ### _의도_
-- work-up의 숙련을 위해, 그리고 api 사용법을 익히기 위한 간단한 프로젝트 만들기
-### _사용 스텍_
+- mark-up의 숙련을 위해, 그리고 api 사용법을 익히기 위한 간단한 프로젝트 만들기
+### _사용 스택_
 - `#Javascript` -> React.js
 - `#Html` 
 - `#Css` 
