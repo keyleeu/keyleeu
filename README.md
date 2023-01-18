@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a5acdf&height=320&section=header&text=MinHyeok%20Lee&fontSize=70&animation=fadeIn&fontAlignY=33&desc=개발자%20이민혁의%20개발일지%20입니다&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a5acdf&height=320&section=header&text=JungEun%20Jang&fontSize=70&animation=fadeIn&fontAlignY=33&desc=개발자%20이민혁의%20개발일지%20입니다&descAlignY=55&descAlign=50" />
 </p>
 
 <p align='center'>📌 Introduction  
@@ -43,25 +43,58 @@
       <img src="https://img.shields.io/badge/GitHub-f2f2f2?style=flat-square&logo=GitHub&logoColor=black"/>
   </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellajang&layout=compact)](https://github.com/ellajang/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me4n-lee&layout=compact)](https://github.com/me4n-lee/github-readme-stats)
 
 ## _📌 Project_
 
-> Kokoa Talk App
-
-- kakaotalk clone coding
-  > Movie Web page
-- Movie page clone coding
-  > Wetube Page
-- Youtube clone coding
-  > Nbnb Page
-- Airbnb clone coding
-
-  > Errand-App
-
-- Side Project
-
-#
+> PROJECT
+- google app
+    - ~2021/7
+    -  <p align="left">
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
+      </p>
+- basic web
+    - ~2021/7
+    -
+- movie app
+    - ~2022/5
+    -
+- find macbook
+    - ~2022/7
+    -
+- errand(proto)
+    - ~2022/10
+    -
+- basic database
+    - ~2022/11
+    -
+- errand(team)
+    - ~2022/12
+    -
+> CLONE
+- airbnb
+    - ~2021/4
+    - 
+- kakao talk
+    - ~2021/5
+    - 
+- youtube
+    - ~2021/8
+    -
+- instagram
+    - ~2021/12
+    -
+- uber eats
+    - ~2022/3
+    -
+> ALGORITHM
+- 2022-2nd(college)
+    - ~2022/12
+    -
+- 2022-summer(college)
+    - ~2022/8
+    -
 
 ### _📌 Project Detail_
 
