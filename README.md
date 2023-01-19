@@ -120,7 +120,7 @@
 
 ## [Google App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 <p align="center">
-<img src="img/googleApp_1" width="" height="370"/>
+<img src="img/googleApp_1.png" width="" height="370"/>
 </p>
 ### _프로젝트 기간 : ~2021/7_
 ### _의도_
