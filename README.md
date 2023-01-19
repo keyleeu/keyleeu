@@ -99,6 +99,11 @@
 >1. SIDE PROJECT
 
 ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+
+<p align="center">
+<img src="img/movieApp_1.png" width="" height="370"/>
+</p>
+
 ### _프로젝트 기간 : ~2021/5_
 ### _의도_
 - mark-up의 숙련을 위함
