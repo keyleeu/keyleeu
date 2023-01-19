@@ -46,18 +46,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me4n-lee&show_icons=true&theme=cobalt)
 
 ## _📌 Contents_
-> *Project Index*
-1. SIDE PROJECT
-2. CLONE
-3. ALGORITHM
-> *~Ing Index*
-1. HI
-> *Project Detail*
-1. SIDE PROJECT
-2. CLONE
-3. ALGORITHM
-> *~Ing Index*
-1. HI
+1. _Project Index_
+    1) SIDE PROJECT
+    2) CLONE
+    3) ALGORITHM
+2. _~Ing Index_
+    1) HI
+3. _Project Detail_
+    1) SIDE PROJECT
+    2) CLONE
+    3) ALGORITHM
+4. _~Ing Index_
+    1) HI
 
 ## _📌 Project Index_
 
