@@ -47,21 +47,21 @@
 
 ## _📌 Contents_
 ###  __Project Index__
-1. SIDE PROJECT
-2. CLONE
-3. ALGORITHM
+1. side project
+2. clone
+3. algorithm
 ### __~Ing Index__
-1. HI
+1. hi
 ### __Project Detail__
-1. SIDE PROJECT
-2. CLONE
-3. ALGORITHM
+1. side project
+2. clone
+3. algorithm
 ### __~Ing Index__
-4. HI
+4. hi
 
 ## _📌 Project Index_
 
-> 1. SIDE PROJECT
+> 1. side project
 - [movie app](#movie-app)
     - 프로젝트 기간 : ~2021/5
     - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
@@ -81,7 +81,7 @@
 - errand(team)
     - 프로젝트 기간 : ~2022/12
     -
-> 2.CLONE
+> 2.clone
 - airbnb
     - 프로젝트 기간 : ~2021/4
     - 
@@ -97,7 +97,7 @@
 - uber eats
     - 프로젝트 기간 : ~2022/3
     -
-> 3.ALGORITHM
+> 3.algorithm
 - 2022-2nd(college)
     - 프로젝트 기간 : ~2022/12
     -
