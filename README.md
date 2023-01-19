@@ -119,9 +119,11 @@
 <br/>
 
 ## [Google App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+
 <p align="center">
 <img src="img/googleApp_1.png" width="" height="370"/>
 </p>
+
 ### _프로젝트 기간 : ~2021/7_
 ### _의도_
 - 시간, 날씨와 같은 기본적인 api를 활용하는 방법을 익히기 위함
