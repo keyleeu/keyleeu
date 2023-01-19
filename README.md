@@ -51,11 +51,13 @@
 2. CLONE
 3. ALGORITHM
 > ~Ing Index
+1. HI
 > [Project Detail](#Project-Detail)
 1. SIDE PROJECT
 2. CLONE
 3. ALGORITHM
 > ~Ing Index
+1. HI
 
 ## _📌 Project Index_
 
