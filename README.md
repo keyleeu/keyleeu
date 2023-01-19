@@ -46,9 +46,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me4n-lee&show_icons=true&theme=cobalt)
 
 ## _📌 Contents_
-1. [Project Index](#📌-project-index)
+1. [Project Index](#project-index)
 2. ~Ing Index
-3. [Project Detail](#📌-Project-Detail)
+3. [Project Detail](#Project-Detail)
 4. ~Ing Index
 
 ## _📌 Project Index_
