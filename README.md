@@ -52,12 +52,13 @@
     - 프로젝트 기간 : ~2021/5
     - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
     <details>
-    - <summary>세부사항 접기/펼치기</summary>
+    <br/>
+    <summary>세부사항 접기/펼치기</summary>
+
     <p align="center">
     <img src="img/movieApp_1.png" width="" height="370"/>
     </p>
 
-    ### _프로젝트 기간 : ~2021/5_
     ### _의도_
     - mark-up의 숙련을 위함
     - api 사용법을 익히기 위한 간단한 프로젝트 만들기
