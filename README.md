@@ -48,15 +48,15 @@
 ## _📌 Project Index_
 
 > 1. SIDE PROJECT
-- google app
+- [movie app](#movie-app)
+    - 프로젝트 기간 : ~2021/5
+    - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
+- [google app](#google-app)
     - 프로젝트 기간 : ~2021/7
-    - 사용 스택 :
+    - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api`
 - basic web
     - 프로젝트 기간 : ~2021/7
     - 사용 스택 :
-- [movie app](#movie-app)
-    - 프로젝트 기간 : ~2022/5
-    - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
 - find macbook
     - ~2022/7
     -
@@ -101,7 +101,8 @@
 ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 ### _프로젝트 기간 : ~2021/5_
 ### _의도_
-- mark-up의 숙련을 위해, 그리고 api 사용법을 익히기 위한 간단한 프로젝트 만들기
+- mark-up의 숙련을 위함
+- api 사용법을 익히기 위한 간단한 프로젝트 만들기
 ### _사용 스택_
 - `#Javascript` -> React.js
 - `#Html` 
@@ -115,6 +116,26 @@
 ### _결과물_
 - Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_movieApp_2021-5)
 
+<br/>
+
+## [Google App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+### _프로젝트 기간 : ~2021/7_
+### _의도_
+- 시간, 날씨와 같은 기본적인 api를 활용하는 방법을 익히기 위함
+- google 확장프로그램과 같은 서비스 만들기
+### _사용 스택_
+- `#Javascript`
+- `#Html` 
+- `#Css`
+- `#Api`
+- `#Gh-pages`
+### _주요기능 및 설명_
+- Html, Css, Js를 활용하여 프론트엔드를 구현
+- API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
+- 랜덤한 정보를 가져올수 있는 함수 구현
+- Github pages를 활용해 결과물 배포
+### _결과물_
+- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
 
 #
 >2. CLONE
