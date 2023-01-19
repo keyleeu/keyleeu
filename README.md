@@ -52,7 +52,7 @@
     - 프로젝트 기간 : ~2021/5
     - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
     <details>
-    <summary> **세부사항 접기/펼치기** </summary>
+    <summary> *세부사항 접기/펼치기* </summary>
 
     <p align="center">
     <img src="img/movieApp_1.png" width="" height="370"/>
