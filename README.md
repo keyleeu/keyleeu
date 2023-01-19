@@ -47,14 +47,14 @@
 
 ## _📌 Contents_
 > [Project Index](#project-index)
->   > 1. SIDE PROJECT
->   > 2. CLONE
->   > 3. ALGORITHM
+1. SIDE PROJECT
+2. CLONE
+3. ALGORITHM
 > ~Ing Index
 > [Project Detail](#Project-Detail)
->   > 1. SIDE PROJECT
->   > 2. CLONE
->   > 3. ALGORITHM
+1. SIDE PROJECT
+2. CLONE
+3. ALGORITHM
 > ~Ing Index
 
 ## _📌 Project Index_
