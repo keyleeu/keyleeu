@@ -48,7 +48,7 @@
 ## _📌 Project Index_
 
 > 1. SIDE PROJECT
-- ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+- #### [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
     - 프로젝트 기간 : ~2021/5
     - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
     <details>
