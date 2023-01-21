@@ -114,7 +114,7 @@
 ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 
 <p align="center">
-<img src="img/movieApp_1.png" width="" height="150"/>
+<img src="img/movieApp_1.png" width="" height="200"/>
 </p>
 
 ### _프로젝트 기간 : ~2021/5_
@@ -139,7 +139,7 @@
 ## [Google App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 
 <p align="center">
-<img src="img/googleApp_1.png" width="" height="150"/>
+<img src="img/googleApp_1.png" width="" height="200"/>
 </p>
 
 ### _프로젝트 기간 : ~2021/7_
