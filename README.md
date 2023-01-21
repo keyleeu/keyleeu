@@ -69,6 +69,7 @@
 - [google app](#google-app)
     - 프로젝트 기간 : ~2021/7
     - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api`
+
 - find macbook
     - 프로젝트 기간 : ~2022/7
     -
@@ -82,9 +83,9 @@
     - 프로젝트 기간 : ~2022/12
     -
 > 2.clone
-- airbnb
+- [Airbnb](#airbnb)
     - 프로젝트 기간 : ~2021/4
-    - 
+    - 사용 스택 : `#python` `#django` `#Javascript` `#Html` `#Css` `#Api`
 - kakao talk
     - 프로젝트 기간 : ~2021/5
     - 
