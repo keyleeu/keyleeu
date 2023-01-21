@@ -181,7 +181,7 @@
 - `#javascript` -> vanilla.js
 - `#Html` 
 - `#Css` -> Scss, TailwindCss
-- `#RestAPI`
+- `#Api` -> RestAPI
 ### _주요기능 및 설명_
 - frontend : Html, Css, vanilla.ks, Scss, TailwindCss
 - backend : python, djangoDB
