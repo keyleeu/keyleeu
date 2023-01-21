@@ -166,10 +166,10 @@
 ## [Airbnb](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 
 <p align="center">
-<img src="img/airbnb_1.png" width="" height="150"/>
-<img src="img/airbnb_2.png" width="" height="150"/>
-<img src="img/airbnb_3.png" width="" height="150"/>
-<img src="img/airbnb_4.png" width="" height="150"/>
+<img src="img/airbnb_1.png" width="" height="200"/>
+<img src="img/airbnb_2.png" width="" height="200"/>
+<img src="img/airbnb_3.png" width="" height="200"/>
+<img src="img/airbnb_4.png" width="" height="200"/>
 </p>
 
 ### _프로젝트 기간 : ~2021/4_
