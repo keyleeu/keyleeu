@@ -170,12 +170,17 @@
 </p>
 <img src="img/airbnb_2.png" width="" height="370"/>
 </p>
+<img src="img/airbnb_3.png" width="" height="370"/>
+</p>
+<img src="img/airbnb_4.png" width="" height="370"/>
+</p>
 
 ### _프로젝트 기간 : ~2021/4_
 ### _의도_
 - pip, 즉 가상환경에 대한 이해, 구현
 - RestApi에 대한 이해, 구현
 - python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
+- aws S3, EC2를 활용해 가상 데이터베이스, 가상 서버 구현
 ### _사용 스택_
 - `#python`
 - `#django`
@@ -196,7 +201,7 @@
 - Github pages를 활용해 결과물 배포
 ### _결과물_
 - django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
-- aws를 통해 결과물을 업로드 한 뒤, 실제로 온라인에서 실행되는 서비스를 만들고 싶어졌음
+- aws를 활용해 가상 서버를 구현, 실제로 사용 가능한 환경 구축
 
 <br/>
 
