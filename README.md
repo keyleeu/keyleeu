@@ -163,7 +163,7 @@
 #
 >2. CLONE
 
-## [Airbnb](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+## [Airbnb](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
 
 <p align="center">
 <img src="img/airbnb_1.png" width="" height="200"/>
