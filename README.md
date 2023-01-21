@@ -127,7 +127,7 @@
 - `#Api`
 - `#Gh-pages`
 ### _주요기능 및 설명_
-- Html, Css, React.js를 활용하여 프론트엔드를 구현
+- frontend : Html, Css, React.js
 - API 를 활용해 영화들의 포스터, 제목, 요약내용, 장르와 같은 데이터 저장, 출력
 - Github pages를 활용해 결과물 배포
 ### _결과물_
@@ -152,7 +152,7 @@
 - `#Api`
 - `#Gh-pages`
 ### _주요기능 및 설명_
-- Html, Css, Js를 활용하여 프론트엔드를 구현
+- frontend : Html, Css, Js
 - API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
 - 랜덤한 정보를 가져올수 있는 함수 구현
 - Github pages를 활용해 결과물 배포
