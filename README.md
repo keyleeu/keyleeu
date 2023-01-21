@@ -172,21 +172,32 @@
 
 ### _프로젝트 기간 : ~2021/4_
 ### _의도_
-- 시간, 날씨와 같은 기본적인 api를 활용하는 방법을 익히기 위함
-- google 확장프로그램과 같은 서비스 만들기
+- pip, 즉 가상환경에 대한 이해를 하기 위함
+- 
+- python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
 ### _사용 스택_
-- `#Javascript`
+- `#python`
+- `#django`
+- `#javascript` -> vanilla.js
 - `#Html` 
-- `#Css`
-- `#Api`
-- `#Gh-pages`
+- `#Css` -> Scss, TailwindCss
+- `#RestAPI`
 ### _주요기능 및 설명_
-- Html, Css, Js를 활용하여 프론트엔드를 구현
-- API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
+- frontend : Html, Css, vanilla.ks, Scss, TailwindCss
+- backend : python, djangoDB
+- etc : restapi
+- django에는 웹페이지가 기초적을 갖추어야할 form이 기본 제공되기 때문에 커스터마이징을 통해 서비스를 구현
+- github, kakaotalk RestAPI를 활용해 로그인, 로그아웃 구현
+- django-seed 모듈을 활용해 test data 생성
+- get,post를 활용해 메세지 구현
+- create로 예약 구현
 - 랜덤한 정보를 가져올수 있는 함수 구현
 - Github pages를 활용해 결과물 배포
 ### _결과물_
-- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
+- django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
+- aws를 통해 결과물을 업로드 한 뒤, 실제로 온라인에서 실행되는 서비스를 만들고 싶어졌음
+
+<br/>
 
 #
 >3. ALGORITHM
