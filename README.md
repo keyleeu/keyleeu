@@ -73,31 +73,41 @@
 - find macbook
     - 프로젝트 기간 : ~2022/7
     -
+
 - errand(proto)
     - 프로젝트 기간 : ~2022/10
     -
+
 - basic database
     - 프로젝트 기간 : ~2022/11
     -
+
 - errand(team)
     - 프로젝트 기간 : ~2022/12
     -
+    
 > 2.clone
+
 - [Airbnb](#airbnb)
     - 프로젝트 기간 : ~2021/4
     - 사용 스택 : `#python` `#django` `#Javascript` `#Html` `#Css` `#Api`
+
 - [KakaoTalk](#kakaotalk)
     - 프로젝트 기간 : ~2021/5
-    - 사용 스택 : 
+    - 사용 스택 : `#Html` `#Css` `#Gh-pages`
+
 - [Youtube](#youtube)
     - 프로젝트 기간 : ~2021/8
-    - 사용 스택 : 
+    - 사용 스택 : `#Javascript` `#Css` `#Pug` `#MongoDB` `#Express` `#Gh-pages` `#heroku`
+
 - [Instagram](#instagram)
     - 프로젝트 기간 : ~2021/12
     - 사용 스택 : 
+
 - [Uber eats](#uber-eats)
     - 프로젝트 기간 : ~2022/3
     - 사용 스택 : 
+
 > 3.algorithm
 - 2022-2nd(college)
     - 프로젝트 기간 : ~2022/12
