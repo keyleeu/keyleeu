@@ -235,14 +235,14 @@
 
 <br/>
 
-## [Youtube](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
+## [Youtube](https://github.com/me4n-lee/CLONE_youtube_2021-8)
 
 <p align="center">
-<img src="img/airbnb_3.png" width="" height="200"/>
-<img src="img/airbnb_4.png" width="" height="200"/>
-<img src="img/airbnb_5.png" width="" height="200"/>
-<img src="img/airbnb_2.png" width="" height="200"/>
-<img src="img/airbnb_1.png" width="" height="200"/>
+<img src="img/youtube_3.png" width="" height="200"/>
+<img src="img/youtube_4.png" width="" height="200"/>
+<img src="img/youtube_5.png" width="" height="200"/>
+<img src="img/youtube_2.png" width="" height="200"/>
+<img src="img/youtube_1.png" width="" height="200"/>
 </p>
 
 ### _프로젝트 기간 : ~2021/8_
