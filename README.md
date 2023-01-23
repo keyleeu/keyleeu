@@ -265,7 +265,7 @@
 - mongoose를 통해 mongoDB에 대한 개념과, 구현을 익히기 위함
 - heroku 사용법을 익히기 위함
 ### _사용 스택_
-- `#Javascript` 
+- `#Javascript` node.js
 - `#Css` -> scss
 - `#Pug` -> babel, nodemon
 - `#MongoDB` -> mongoose
