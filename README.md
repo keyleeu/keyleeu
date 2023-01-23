@@ -85,7 +85,7 @@
 - errand(team)
     - 프로젝트 기간 : ~2022/12
     -
-    
+
 > 2.clone
 
 - [Airbnb](#airbnb)
@@ -98,7 +98,7 @@
 
 - [Youtube](#youtube)
     - 프로젝트 기간 : ~2021/8
-    - 사용 스택 : `#Javascript` `#Css` `#Pug` `#MongoDB` `#Express` `#Gh-pages` `#heroku`
+    - 사용 스택 : `#Javascript` `#Css` `#Pug` `#MongoDB` `#Express` `#heroku`
 
 - [Instagram](#instagram)
     - 프로젝트 기간 : ~2021/12
@@ -270,7 +270,6 @@
 - `#Pug` -> babel, nodemon
 - `#MongoDB` -> mongoose
 - `#Express`
-- `#Gh-pages`
 - `#heroku`
 ### _주요기능 및 설명_
 - frontend : Html, Scss, pug, vanila.js
@@ -279,11 +278,11 @@
 - 영상 재생, 댓글 추가, 동영상 검색등의 기능을 구현
 - 로그인 페이지를 제작해 가입과 로그인이 가능하도록 했음, git RestAPI를 활용해 인증, 로그인을 구현
 - mongoDB, express 를 활용해 데이터베이스와 백엔드 구현
-- heroku, Github pages를 활용해 결과물 배포
+- heroku를 활용해 결과물 배포
 ### _결과물_
-- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/CLONE_kakaoTalk_2021-5)
-- heroku로 배포 완료 ->
--2022/11 추가사항 : hereku 결제 이슈로 구현된 페이지가 출력되고 있지 않습니다. 코드상으로는 이상 없으나, 아직 해결책을 찾지 못했습니다. 현재 mongoDB, heroku의 기능 확인은 불가능한 상태 입니다. 이슈 수정하는대로 커밋 하겠습니다.
+### _결과물_
+- Heroku로 배포 완료 -> [Heroku](https://youtube-clone-me4n.herokuapp.com/)
+-2022/11 추가사항 : hereku 결제 이슈로 구현된 페이지가 출력되고 있지 않습니다. 코드상으로는 이상 없으나, 아직 해결책을 찾지 못했습니다. 현재 mongoDB, heroku의 기능 확인은 불가능한 상태 입니다. 이슈 수정하는대로 커밋 하겠습니다. (사진 파일은 관리자페이지로 업로드되었습니다.)
 
 <br/>
 
