@@ -212,19 +212,16 @@
 <img src="img/kakao_4.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2021/8_
+### _프로젝트 기간 : ~2021/5_
 ### _keyword_
 - 순수 Html, 순수 Css
 ### _의도_
 - 기본 Html, Css 조작을 통해 파일간 구조, 폴더 구조에 대해 공부하기 위함
 - mark-up 에 대한 숙련도 향상을 위함
 ### _사용 스택_
-- `#Javascript` 
+- `#Html` 
 - `#Css`
-- `#Pug` -> babel, nodemon
-- `#Mongodb` -> mongoose
 - `#Gh-pages`
-- `#heroku`
 ### _주요기능 및 설명_
 - frontend : Html, Css
 - backend : 
@@ -241,40 +238,42 @@
 ## [Youtube](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
 
 <p align="center">
-<img src="img/airbnb_1.png" width="" height="200"/>
-<img src="img/airbnb_2.png" width="" height="200"/>
 <img src="img/airbnb_3.png" width="" height="200"/>
 <img src="img/airbnb_4.png" width="" height="200"/>
+<img src="img/airbnb_5.png" width="" height="200"/>
+<img src="img/airbnb_2.png" width="" height="200"/>
+<img src="img/airbnb_1.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2021/4_
+### _프로젝트 기간 : ~2021/8_
 ### _keyword_
-- Aws, Python, Django
+- Pug, MongoDB, Heroku
 ### _의도_
-- pip, 즉 가상환경에 대한 이해, 구현
-- RestApi에 대한 이해, 구현
-- python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
-- aws S3, EC2를 활용해 가상 데이터베이스, 가상 서버 구현
+- pug와 babel을 활용해 html을 대체하는 방법 학습
+- 영상자료 저장과 입력, 활용하는 방법을 익히기 위함
+- mark-up 에 대한 숙련도 향상을 위함
+- mongoose를 통해 mongoDB에 대한 개념과, 구현을 익히기 위함
+- heroku 사용법을 익히기 위함
 ### _사용 스택_
-- `#python`
-- `#django`
-- `#javascript` -> vanilla.js
-- `#Html` 
-- `#Css` -> Scss, TailwindCss
-- `#Api` -> RestAPI
-- `#Aws` -> S3, EC2
+- `#Javascript` 
+- `#Css` -> scss
+- `#Pug` -> babel, nodemon
+- `#MongoDB` -> mongoose
+- `#Express`
+- `#Gh-pages`
+- `#heroku`
 ### _주요기능 및 설명_
-- frontend : Html, Css, vanilla.ks, Scss, TailwindCss
-- backend : python, djangoDB
-- etc : restapi, aws
-- django에는 웹페이지가 기초적을 갖추어야할 form이 기본 제공되기 때문에 커스터마이징을 통해 서비스를 구현
-- github, kakaotalk RestAPI를 활용해 로그인, 로그아웃 구현
-- django-seed 모듈을 활용해 test data 생성
-- get,post를 활용해 메세지 구현
-- create로 예약 구현
+- frontend : Html, Scss, pug, vanila.js
+- backend : node.js , mongoDB, express
+- etc : Gh-pages, heroku
+- 영상 재생, 댓글 추가, 동영상 검색등의 기능을 구현
+- 로그인 페이지를 제작해 가입과 로그인이 가능하도록 했음, git RestAPI를 활용해 인증, 로그인을 구현
+- mongoDB, express 를 활용해 데이터베이스와 백엔드 구현
+- heroku, Github pages를 활용해 결과물 배포
 ### _결과물_
-- django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
-- aws를 활용해 가상 서버를 구현, 실제로 사용 가능한 환경 구축
+- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/CLONE_kakaoTalk_2021-5)
+- heroku로 배포 완료 ->
+-2022/11 추가사항 : hereku 결제 이슈로 구현된 페이지가 출력되고 있지 않습니다. 코드상으로는 이상 없으나, 아직 해결책을 찾지 못했습니다. 현재 mongoDB, heroku의 기능 확인은 불가능한 상태 입니다. 이슈 수정하는대로 커밋 하겠습니다.
 
 <br/>
 
