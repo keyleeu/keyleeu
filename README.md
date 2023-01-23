@@ -212,16 +212,19 @@
 <img src="img/kakao_4.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2021/5_
+### _프로젝트 기간 : ~2021/8_
 ### _keyword_
 - 순수 Html, 순수 Css
 ### _의도_
 - 기본 Html, Css 조작을 통해 파일간 구조, 폴더 구조에 대해 공부하기 위함
 - mark-up 에 대한 숙련도 향상을 위함
 ### _사용 스택_
-- `#Html` 
+- `#Javascript` 
 - `#Css`
+- `#Pug` -> babel, nodemon
+- `#Mongodb` -> mongoose
 - `#Gh-pages`
+- `#heroku`
 ### _주요기능 및 설명_
 - frontend : Html, Css
 - backend : 
