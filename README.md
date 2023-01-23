@@ -86,22 +86,22 @@
 - [Airbnb](#airbnb)
     - 프로젝트 기간 : ~2021/4
     - 사용 스택 : `#python` `#django` `#Javascript` `#Html` `#Css` `#Api`
-- kakao talk
+- [KakaoTalk](#kakaotalk)
     - 프로젝트 기간 : ~2021/5
-    - 
-- youtube
+    - 사용 스택 : 
+- [Youtube](#youtube)
     - 프로젝트 기간 : ~2021/8
-    -
-- instagram
+    - 사용 스택 : 
+- [Instagram](#instagram)
     - 프로젝트 기간 : ~2021/12
-    -
-- uber eats
+    - 사용 스택 : 
+- [Uber eats](#uber-eats)
     - 프로젝트 기간 : ~2022/3
-    -
+    - 사용 스택 : 
 > 3.algorithm
 - 2022-2nd(college)
     - 프로젝트 기간 : ~2022/12
-    -
+    - 
 - 2022-summer(college)
     - 프로젝트 기간 : ~2022/8
     -
@@ -164,6 +164,166 @@
 >2. CLONE
 
 ## [Airbnb](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
+
+<p align="center">
+<img src="img/airbnb_1.png" width="" height="200"/>
+<img src="img/airbnb_2.png" width="" height="200"/>
+<img src="img/airbnb_3.png" width="" height="200"/>
+<img src="img/airbnb_4.png" width="" height="200"/>
+</p>
+
+### _프로젝트 기간 : ~2021/4_
+### _keyword_
+- Aws, Python, Django
+### _의도_
+- pip, 즉 가상환경에 대한 이해, 구현
+- RestApi에 대한 이해, 구현
+- python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
+- aws S3, EC2를 활용해 가상 데이터베이스, 가상 서버 구현
+### _사용 스택_
+- `#python`
+- `#django`
+- `#javascript` -> vanilla.js
+- `#Html` 
+- `#Css` -> Scss, TailwindCss
+- `#Api` -> RestAPI
+- `#Aws` -> S3, EC2
+### _주요기능 및 설명_
+- frontend : Html, Css, vanilla.ks, Scss, TailwindCss
+- backend : python, djangoDB
+- etc : restapi, aws
+- django에는 웹페이지가 기초적을 갖추어야할 form이 기본 제공되기 때문에 커스터마이징을 통해 서비스를 구현
+- github, kakaotalk RestAPI를 활용해 로그인, 로그아웃 구현
+- django-seed 모듈을 활용해 test data 생성
+- get,post를 활용해 메세지 구현
+- create로 예약 구현
+### _결과물_
+- django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
+- aws를 활용해 가상 서버를 구현, 실제로 사용 가능한 환경 구축
+
+<br/>
+
+## [KakaoTalk](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
+
+<p align="center">
+<img src="img/airbnb_1.png" width="" height="200"/>
+<img src="img/airbnb_2.png" width="" height="200"/>
+<img src="img/airbnb_3.png" width="" height="200"/>
+<img src="img/airbnb_4.png" width="" height="200"/>
+</p>
+
+### _프로젝트 기간 : ~2021/4_
+### _keyword_
+- Aws, Python, Django
+### _의도_
+- pip, 즉 가상환경에 대한 이해, 구현
+- RestApi에 대한 이해, 구현
+- python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
+- aws S3, EC2를 활용해 가상 데이터베이스, 가상 서버 구현
+### _사용 스택_
+- `#python`
+- `#django`
+- `#javascript` -> vanilla.js
+- `#Html` 
+- `#Css` -> Scss, TailwindCss
+- `#Api` -> RestAPI
+- `#Aws` -> S3, EC2
+### _주요기능 및 설명_
+- frontend : Html, Css, vanilla.ks, Scss, TailwindCss
+- backend : python, djangoDB
+- etc : restapi, aws
+- django에는 웹페이지가 기초적을 갖추어야할 form이 기본 제공되기 때문에 커스터마이징을 통해 서비스를 구현
+- github, kakaotalk RestAPI를 활용해 로그인, 로그아웃 구현
+- django-seed 모듈을 활용해 test data 생성
+- get,post를 활용해 메세지 구현
+- create로 예약 구현
+### _결과물_
+- django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
+- aws를 활용해 가상 서버를 구현, 실제로 사용 가능한 환경 구축
+
+<br/>
+
+## [Youtube](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
+
+<p align="center">
+<img src="img/airbnb_1.png" width="" height="200"/>
+<img src="img/airbnb_2.png" width="" height="200"/>
+<img src="img/airbnb_3.png" width="" height="200"/>
+<img src="img/airbnb_4.png" width="" height="200"/>
+</p>
+
+### _프로젝트 기간 : ~2021/4_
+### _keyword_
+- Aws, Python, Django
+### _의도_
+- pip, 즉 가상환경에 대한 이해, 구현
+- RestApi에 대한 이해, 구현
+- python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
+- aws S3, EC2를 활용해 가상 데이터베이스, 가상 서버 구현
+### _사용 스택_
+- `#python`
+- `#django`
+- `#javascript` -> vanilla.js
+- `#Html` 
+- `#Css` -> Scss, TailwindCss
+- `#Api` -> RestAPI
+- `#Aws` -> S3, EC2
+### _주요기능 및 설명_
+- frontend : Html, Css, vanilla.ks, Scss, TailwindCss
+- backend : python, djangoDB
+- etc : restapi, aws
+- django에는 웹페이지가 기초적을 갖추어야할 form이 기본 제공되기 때문에 커스터마이징을 통해 서비스를 구현
+- github, kakaotalk RestAPI를 활용해 로그인, 로그아웃 구현
+- django-seed 모듈을 활용해 test data 생성
+- get,post를 활용해 메세지 구현
+- create로 예약 구현
+### _결과물_
+- django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
+- aws를 활용해 가상 서버를 구현, 실제로 사용 가능한 환경 구축
+
+<br/>
+
+## [Instagram](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
+
+<p align="center">
+<img src="img/airbnb_1.png" width="" height="200"/>
+<img src="img/airbnb_2.png" width="" height="200"/>
+<img src="img/airbnb_3.png" width="" height="200"/>
+<img src="img/airbnb_4.png" width="" height="200"/>
+</p>
+
+### _프로젝트 기간 : ~2021/4_
+### _keyword_
+- Aws, Python, Django
+### _의도_
+- pip, 즉 가상환경에 대한 이해, 구현
+- RestApi에 대한 이해, 구현
+- python, django를 활용해서 웹페이지의 백엔드를 제작, 프론트와 연결 후 결과물 도출
+- aws S3, EC2를 활용해 가상 데이터베이스, 가상 서버 구현
+### _사용 스택_
+- `#python`
+- `#django`
+- `#javascript` -> vanilla.js
+- `#Html` 
+- `#Css` -> Scss, TailwindCss
+- `#Api` -> RestAPI
+- `#Aws` -> S3, EC2
+### _주요기능 및 설명_
+- frontend : Html, Css, vanilla.ks, Scss, TailwindCss
+- backend : python, djangoDB
+- etc : restapi, aws
+- django에는 웹페이지가 기초적을 갖추어야할 form이 기본 제공되기 때문에 커스터마이징을 통해 서비스를 구현
+- github, kakaotalk RestAPI를 활용해 로그인, 로그아웃 구현
+- django-seed 모듈을 활용해 test data 생성
+- get,post를 활용해 메세지 구현
+- create로 예약 구현
+### _결과물_
+- django server를 활용해 관리자 페이지를 열어 그 속에서 실시간으로 수행
+- aws를 활용해 가상 서버를 구현, 실제로 사용 가능한 환경 구축
+
+<br/>
+
+## [Uber eats](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
 
 <p align="center">
 <img src="img/airbnb_1.png" width="" height="200"/>
