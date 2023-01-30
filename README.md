@@ -205,7 +205,7 @@
 - 랜덤한 정보를 가져올수 있는 함수 구현
 - Github pages를 활용해 결과물 배포
 ### _결과물_
-- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
+- Github pages로 배포 완료 -> [gh-pages](https://github.com/me4n-lee/PROJECT_findMacbook_2022-7)
 
 <br/>
 
@@ -217,7 +217,7 @@
 <img src="img/find_3.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2022/6_
+### _프로젝트 기간 : ~2022/7_
 ### _keyword_
 - Python, Smtp
 ### _의도_
