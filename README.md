@@ -103,7 +103,7 @@
 
 - [Find Macbook](#find_macbook)
     - 프로젝트 기간 : ~2022/7
-    -
+    - 사용 스택 : `#Python` `#Smtp` `#Github-action`
 
 - [Errand(proto)](#errandproto)
     - 프로젝트 기간 : ~2022/10
