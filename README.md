@@ -33,25 +33,26 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=green"/>
-      <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+
   </p>
 
 - Database
   <p align="left">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgresSQL-4169E1?style=flat-square&logo=PostgresSQL&logoColor=white">
+    postgresql
+    grapql
+
 
   </p>
 
 - Server
   <p align="left">
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=green"/>
+    aws
   </p>
 
 
