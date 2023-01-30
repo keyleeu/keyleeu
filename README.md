@@ -55,9 +55,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Express-191919?style=flat-square&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/Tomcat-181717?style=flat-square&logo=&logoColor=white">
-        </p>
         <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
-
+        </p>
 
     - Version Control
         <p align="left">
