@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-
+      <img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=java&logoColor=white">
   </p>
 
 - Database
@@ -51,6 +51,8 @@
   <p align="left">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Express-191919?style=flat-square&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Tomcat-181717?style=flat-square&logo=tomcat&logoColor=white">
+
   </p>
 
 
@@ -58,10 +60,12 @@
   <p align="left">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat-square&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+      <img src="https://img.shields.io/badge/Eclipse-181717?style=flat-square&logo=eclipse&logoColor=white">
+
   </p>
 
 - Etc
