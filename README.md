@@ -18,24 +18,26 @@
 
 ## _📌 Skills_
 
-- 
-  <p align="left">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SASS-cd6899?style=flat-square&logo=Sass&logoColor=white"/>
-      <img src="https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=skyblue"/> 
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pug-white?style=flat-square&logo=pug&logoColor=brown"/>
-  </p>
-- BackEnd
-  <p align="left">
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=java&logoColor=white">
-  </p>
+- Web
+    - frontend
+        <p align="left">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SASS-cd6899?style=flat-square&logo=Sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=skyblue"/> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pug-white?style=flat-square&logo=pug&logoColor=brown"/>
+        <p>
+    -backend
+        <p align="left">
+        <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=java&logoColor=white">
+        </p>
 
 - Database
   <p align="left">
@@ -51,7 +53,7 @@
   <p align="left">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Express-191919?style=flat-square&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/Tomcat-181717?style=flat-square&logo=tomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/Tomcat-181717?style=flat-square&logo=&logoColor=white">
 
   </p>
 
