@@ -18,7 +18,7 @@
 
 ## _📌 Skills_
 
-- FrontEnd
+- 
   <p align="left">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
@@ -27,7 +27,6 @@
       <img src="https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=skyblue"/> 
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
       <img src="https://img.shields.io/badge/pug-white?style=flat-square&logo=pug&logoColor=brown"/>
-      
   </p>
 - BackEnd
   <p align="left">
@@ -35,8 +34,27 @@
       <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=green"/>
-      
+      <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   </p>
+
+- Database
+  <p align="left">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
+  </p>
+
+- Server
+  <p align="left">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=green"/>
+  </p>
+
+
 - Version Control
   <p align="left">
       <img src="https://img.shields.io/badge/git-white?style=flat-square&logo=git&logoColor=e44c31"/>
