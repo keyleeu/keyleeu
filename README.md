@@ -82,7 +82,7 @@
 
 - [Errand(team)](#errandteam)
     - 프로젝트 기간 : ~2022/12
-- `#Docker` `#Mysql` `#Aws` `#Javascript` `#Html`  `#Css` `#Api` `#Gh-pages` `#Notion`
+    - `#Docker` `#Mysql` `#Aws` `#Javascript` `#Html`  `#Css` `#Api` `#Gh-pages` `#Notion`
 
 > 2.clone
 
