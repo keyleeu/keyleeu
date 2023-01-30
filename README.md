@@ -33,8 +33,8 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=green"/>
+      <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   </p>
 
 - Database
