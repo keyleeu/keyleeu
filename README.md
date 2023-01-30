@@ -15,7 +15,7 @@
 - 학력 : 연세대학교 미래캠퍼스 통계학과 전공, 복수 전공으로 연세대학교 미래캠퍼스 소프트웨어학과 졸업 예정
 - 이력서 :
 - 공유 google drive :
-- 
+
 ## _📌 Skills_
 
 - Web
@@ -212,28 +212,29 @@
 ## [Find Macbook](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 
 <p align="center">
-<img src="img/googleApp_1.png" width="" height="200"/>
+<img src="img/find_1.png" width="" height="200"/>
+<img src="img/find_2.png" width="" height="200"/>
+<img src="img/find_3.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2021/7_
+### _프로젝트 기간 : ~2022/6_
 ### _keyword_
-- Javascript, API
+- Python, Smtp
 ### _의도_
-- 시간, 날씨와 같은 기본적인 api를 활용하는 방법을 익히기 위함
-- google 확장프로그램과 같은 서비스 만들기
+- 새로운 맥북을 구매하기 위해서 만들어본 프로젝트
+- BeautifulSoup와 같은 파이썬 라이브러리를 활용해보기 위함
+- Smtp를 이용해 메일로 연결되는 함수 구조를 제작해보기 위함
 ### _사용 스택_
-- `#Javascript`
-- `#Html` 
-- `#Css`
-- `#Api`
-- `#Gh-pages`
+- `#Python` -> bs
+- `#Smtp` 
+- `#Github-action`
 ### _주요기능 및 설명_
-- frontend : Html, Css, Js
-- API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
-- 랜덤한 정보를 가져올수 있는 함수 구현
-- Github pages를 활용해 결과물 배포
+- backend : python, Smtp
+- 맥북 상품이 등록될때, 한시간단위로 체크 후 메일이 전송되게끔 백엔드를 디자인 했습니다.
+- Github에서 제공하는 action, key, attribute를 활용해, 다른 서버없이 구현했습니다.
 ### _결과물_
-- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
+- Github repositoy를 통해 실시간 서비스 확인 가능
+- 메일이 도착하는것 까지 확인 했습니다
 
 <br/>
 
