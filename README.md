@@ -49,15 +49,13 @@
 ###  __Project Index__
 1. side project
 2. clone
-3. algorithm
-### __~Ing Index__
-1. hi
+3. study
 ### __Project Detail__
 1. side project
 2. clone
-3. algorithm
+3. study
 ### __~Ing Index__
-4. hi
+1. project
 
 ## _📌 Project Index_
 
@@ -76,7 +74,7 @@
 
 - [Errand(proto)](#errandproto)
     - 프로젝트 기간 : ~2022/10
-    -
+    - 사용 스택 : `#Javascript` `#Html` `#Css` `#React` `#Api` `#Github pages`
 
 - [Basic Database](#basic-database)
     - 프로젝트 기간 : ~2022/11
@@ -210,25 +208,21 @@
 <img src="img/googleApp_1.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2021/7_
+### _프로젝트 기간 : ~2022/10_
 ### _keyword_
-- Javascript, API
+- Mark-up(html, css)
 ### _의도_
-- 시간, 날씨와 같은 기본적인 api를 활용하는 방법을 익히기 위함
-- google 확장프로그램과 같은 서비스 만들기
+- 프로젝트를 진행하기 전, 결과물 예상을 위한 프로토타입을 제작하기 위함
+- 기초적인 html, css를 활용해 frontend 기능 구현
 ### _사용 스택_
-- `#Javascript`
 - `#Html` 
 - `#Css`
-- `#Api`
 - `#Gh-pages`
 ### _주요기능 및 설명_
-- frontend : Html, Css, Js
-- API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
-- 랜덤한 정보를 가져올수 있는 함수 구현
+- frontend : Html, Css
 - Github pages를 활용해 결과물 배포
 ### _결과물_
-- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
+- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_errand_proto_2022-10/)
 
 <br/>
 
@@ -247,7 +241,7 @@
 - 실제 데이터베이스를 구축해, front와 backend를 연결하는 기초적인 방법을 배우기 위함
 - 가상환경 tomcat을 활용해 결과물 구현하기
 ### _사용 스택_
-- `#Mariadb` -> mysql
+- `#Mariadb` -> Mysql
 - `#Jsp`
 - `#Jdbc`
 - `#Eclipse`
@@ -284,6 +278,7 @@
 - `#Api`
 - `#Gh-pages`
 ### _주요기능 및 설명_
+- https://github.com/Software-Engineering-07
 - frontend : Html, Css, Js
 - API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
 - 랜덤한 정보를 가져올수 있는 함수 구현
