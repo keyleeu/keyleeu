@@ -202,10 +202,10 @@
 
 <br/>
 
-## [Errand(proto)](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+## [Errand(proto)](https://github.com/me4n-lee/PROJECT_errand_proto_2022-10)
 
 <p align="center">
-<img src="img/googleApp_1.png" width="" height="200"/>
+<img src="img/errand_proto_1.png" width="" height="200"/>
 </p>
 
 ### _프로젝트 기간 : ~2022/10_
