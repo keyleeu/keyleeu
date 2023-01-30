@@ -287,7 +287,7 @@
 - Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
 
 #
->2. CLONE{: .text-center }
+<center> ## 2. CLONE </center>
 
 ## [Airbnb](https://github.com/me4n-lee/CLONE_Airbnb_2021-4)
 
