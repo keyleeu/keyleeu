@@ -66,12 +66,14 @@
         </p>
 
     - Idle
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat-square&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse-181717?style=flat-square&logo=eclipse&logoColor=white">    
-        
-    - Etc
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
         <p align="left">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat-square&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse-181717?style=flat-square&logo=eclipse&logoColor=white"> 
+        </p>  
+
+    - Etc
+        <p align="left">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/API-007FFF?style=flat-square&logo=api&logoColor=white">
         <img src="https://img.shields.io/badge/Ghpages-181717?style=flat-square&logo=github&logoColor=white">
         </p>
