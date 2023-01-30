@@ -8,6 +8,8 @@
 
 # MINHYEOK LEE
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237979E2&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=visit%21&edge_flat=false)](https://hits.seeyoufarm.com)                  
+
 ## _📌 About Me_
 
 - 생년월일 : 1996.12.19
