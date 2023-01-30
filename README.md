@@ -6,9 +6,7 @@
 <p align='center'>어떤 질문이든, 어떤 문제든 마주쳤을때 당당하게 대답하기 위해, 그리고 누구에게나 필요한 사람이 되고자 하기에,
 <p align='center'>새로운 기술과 트렌드를 익혀 꾸준히 성장하기를 노력하는 개발자 이민혁 입니다.  </p>
 
-# MINHYEOK LEE
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237979E2&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=visit%21&edge_flat=false)](https://hits.seeyoufarm.com)                  
+# MINHYEOK LEE              
 
 ## _📌 About Me_
 
@@ -82,7 +80,7 @@
 
 - [Basic Database](#basic-database)
     - 프로젝트 기간 : ~2022/11
-    -
+    - 사용 스택 : `#Mariadb` `#Jsp` `#Jdbc` `#Eclipse` `#Tomcat`
 
 - [Errand(team)](#errandteam)
     - 프로젝트 기간 : ~2022/12
@@ -234,31 +232,36 @@
 
 <br/>
 
-## [Basic database](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+## [Basic database](https://github.com/me4n-lee/PROJECT_basicDatabase_2022-11)
 
 <p align="center">
-<img src="img/googleApp_1.png" width="" height="200"/>
+<img src="img/basicdatabase_1.png" width="" height="200"/>
 </p>
 
-### _프로젝트 기간 : ~2021/7_
+### _프로젝트 기간 : ~2022/11_
 ### _keyword_
-- Javascript, API
+- Mariadb, Java
 ### _의도_
-- 시간, 날씨와 같은 기본적인 api를 활용하는 방법을 익히기 위함
-- google 확장프로그램과 같은 서비스 만들기
+- eclipse 사용법을 익히기 위함
+- java(jsp, jdbc)의 사용법을 익히기 위함
+- 실제 데이터베이스를 구축해, front와 backend를 연결하는 기초적인 방법을 배우기 위함
+- 가상환경 tomcat을 활용해 결과물 구현하기
 ### _사용 스택_
-- `#Javascript`
-- `#Html` 
-- `#Css`
-- `#Api`
-- `#Gh-pages`
+- `#Mariadb` -> mysql
+- `#Jsp`
+- `#Jdbc`
+- `#Eclipse`
+- `#Tomcat`
 ### _주요기능 및 설명_
-- frontend : Html, Css, Js
-- API 를 활용해 실제 서비스되고 있는 시간표현이나 todo-list 생성
-- 랜덤한 정보를 가져올수 있는 함수 구현
-- Github pages를 활용해 결과물 배포
+- frontend : Html, Jsp
+- backend : Mysql(mariadb), Tomcat, Jdbc
+- eclipse를 활용한 이유는, java를 구현해 내기 위한 환경에 최적이라고 생각했기 때문
+- form action을 활용해 도메인과 폴더내 파일 구조를 확립
+- 정보를 직접 입력해 db와 소통해서 데이터를 저장하는 기능을 구현
+- 저장된 데이터를 보여질수 있도록 하는 기능 구현
+- Tomcat 서버를 활용해 결과물 배포
 ### _결과물_
-- Github pages로 배포 완료 -> [gh-pages](https://me4n-lee.github.io/PROJECT_googleApp_2021-7)
+- dev 페이지로 구현했기에 사진으로 대체 하겠습니다. tomcat서버로 결과물 배포 하였습니다.
 
 <br/>
 
