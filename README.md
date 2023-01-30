@@ -261,7 +261,7 @@
 
 <br/>
 
-## [Errand(team)](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
+## [Errand(team)](https://github.com/me4n-lee/PROJECT_errand_frontend_2022-12)
 
 <p align="center">
 <img src="img/team_1.png" width="" height="200"/>
