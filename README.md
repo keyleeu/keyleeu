@@ -118,7 +118,6 @@
 ## _📌 Project Detail_
 
 #
-#
 <p align='center'>1. PROJECT</p>
 <p align='center'>-----------------------------------</p>
 
