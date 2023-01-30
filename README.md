@@ -117,7 +117,10 @@
 
 ## _📌 Project Detail_
 
->1. SIDE PROJECT
+#
+#
+<p align='center'>1. PROJECT</p>
+<p align='center'>-----------------------------------</p>
 
 ## [Movie App](https://github.com/me4n-lee/PROJECT_movieApp_2021-5)
 
