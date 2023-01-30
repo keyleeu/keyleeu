@@ -50,15 +50,24 @@
 - Server
   <p align="left">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-191919?style=flat-square&logo=express&logoColor=white">
   </p>
 
 
 - Version Control
   <p align="left">
-      <img src="https://img.shields.io/badge/git-white?style=flat-square&logo=git&logoColor=e44c31"/>
-      <img src="https://img.shields.io/badge/GitHub-f2f2f2?style=flat-square&logo=GitHub&logoColor=black"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+  </p>
 
+- Etc
+  <p align="left">
+    <img src="https://img.shields.io/badge/API-007FFF?style=flat-square&logo=api&logoColor=white">
+    <img src="https://img.shields.io/badge/Ghpages-181717?style=flat-square&logo=github&logoColor=white">
   </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me4n-lee&show_icons=true&theme=cobalt)
