@@ -104,7 +104,8 @@
 1. project
 
 ## _📌 Team Project_
-- [Code craft](https://github.com/krafton-codeCraft/code-craft)
+- [크래프톤 정글] 팀 프로젝트 - [Code craft](https://github.com/krafton-codeCraft/code-craft)\
+    - 팀장으로 Java와 Game을 결합시킨 코드 학습 웹게임 어플리케이션 개발 참여
 - 전체 프로젝트 흐름을 팀장으로써 효과적으로 지휘, 고퀄리티의 결과물을 구현
 - 사용자 데이터 관리를 위해 Redis와 같은 인메모리 데이터 스토어를 활용하여 실시간 유저 데이터 과부화를 효과적으로 관리
 - 클라이언트 측에서는 WebGL을 기반으로한 PIXI.js와 같은 선진 JavaScript 프레임워크를 활용하여 오브젝트의 레이턴시와 같은 문제 해결
