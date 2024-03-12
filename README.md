@@ -91,7 +91,7 @@
 
 ## _📌 Contents_
 ### __Team Project__
-[Code craft](#https://github.com/krafton-codeCraft/code-craft)
+[Code craft](https://github.com/krafton-codeCraft/code-craft)
 ###  __Project Index__
 1. side project
 2. clone
