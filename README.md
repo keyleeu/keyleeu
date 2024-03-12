@@ -105,7 +105,7 @@
 
 ## _📌 Team Project_
 
-##[크래프톤 정글 팀 프로젝트 - Code Craft](https://github.com/krafton-codeCraft/code-craft)
+## [크래프톤 정글 팀 프로젝트 - Code Craft](https://github.com/krafton-codeCraft/code-craft)
     - Youtube 영상 링크 - [YOUTUBE VIDEO](https://www.youtube.com/watch?v=SrFgQBtvI8A)
     - 팀장으로 Java와 Game을 결합시킨 코드 학습 웹게임 어플리케이션 개발 참여
     - 전체 프로젝트 흐름을 팀장으로써 효과적으로 지휘, 고퀄리티의 결과물을 구현
