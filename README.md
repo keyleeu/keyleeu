@@ -91,7 +91,7 @@
 
 ## _📌 Contents_
 ### __Team Project__
-[Code craft](https://github.com/krafton-codeCraft/code-craft)
+
 ###  __Project Index__
 1. side project
 2. clone
@@ -102,6 +102,15 @@
 3. study
 ### __~Ing Index__
 1. project
+
+## _📌 Team Project_
+- [Code craft](https://github.com/krafton-codeCraft/code-craft)
+- 전체 프로젝트 흐름을 팀장으로써 효과적으로 지휘, 고퀄리티의 결과물을 구현
+- 사용자 데이터 관리를 위해 Redis와 같은 인메모리 데이터 스토어를 활용하여 실시간 유저 데이터 과부화를 효과적으로 관리
+- 클라이언트 측에서는 WebGL을 기반으로한 PIXI.js와 같은 선진 JavaScript 프레임워크를 활용하여 오브젝트의 레이턴시와 같은 문제 해결
+- 서버 측에서는 스케일링과 안정성을 고려하여 Spring Boot와 같은 프레임워크를 활용, 멀티 쓰레드와 잡큐를 도입해 안정적이고 확장 가능한 서버 아키텍처를 설계
+- 클라이언트와 서버간의 코드 규합에서 90% 이상을 담당 했으며, Github 버전 관리, 이슈관리를 통해 효율적이고 즉각적인 디버깅을 진행, 완성도 높은 프로젝트 구현
+
 
 ## _📌 Project Index_
 
