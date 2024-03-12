@@ -104,6 +104,9 @@
 1. project
 
 ## _📌 Team Project_
+<p align='center'>
+<img src="./img/codecraftPosterResize.png"/>
+</p>
 - [크래프톤 정글] 팀 프로젝트 - [Code craft](https://github.com/krafton-codeCraft/code-craft)
     - 팀장으로 Java와 Game을 결합시킨 코드 학습 웹게임 어플리케이션 개발 참여
 - 전체 프로젝트 흐름을 팀장으로써 효과적으로 지휘, 고퀄리티의 결과물을 구현
